@@ -62,7 +62,7 @@ mapping_kolom = {
     'Tanggal Kondisi': 'tanggal kondisi',
     'No CIF Debitur': 'cif',
     'Keterangan': 'customer name', 
-    'Plafon': 'plafond',
+    'Plafon Awal': 'plafond',
     'Baki Debet': 'pokok terakhir',
     'Kode Jenis Penggunaan': 'jenis penggunaan',
     'Kode Sektor Ekonomi': 'sektor ekonomi',

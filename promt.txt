@@ -1,0 +1,28 @@
+saya memiliki file di direktory yang sama dengan kode python nya
+1. Reff-sektor-ekonomi.xls, file ini berisi kode sektor ekonomi (No, Label, Sandi Referensi, Definisi)
+2. KRP - ... xls, file ini berisi (Branch	idPelapor	periodeLaporan	periodeData	nomorRekening	idDebitur	NAMA_CUSTOMER	PRODUK	jenisKreditPembiayaan	nomorAkadAwal	tanggalAkadAwal	nomorAkadAkhir	tanggalAkadAkhir	tanggalAwal	tanggalMulai	tanggalJatuhTempo	kategoriUsahaDebitur	kategoriPortofolio	skimPembiayaanSyariah	jenisAkad	karakteristikSumberDana	sifatInvestasi	metodeBagiHasil	persentaseNisbah	persentaseRBHterhadapPBH	sifatKreditPembiayaan	jenisPenggunaan	orientasiPenggunaan	jenisValuta	klasifikasiAsetKeuangan	kreditProgramPemerintah	sektorKreditUsahaRakyat	sektorEkonomi	lokasiPenggunaan	jenisAset	waktuPerolehanAset	jenisValutaAset	hargaPerolehanAset	jumlahPeriodePenyusutanAmortisasi	metodePenyusutanAmortisasi	nilaiKontrak	periodePembayaranSewa	nilaiSewaPerPeriode	akumulasiPenyusutanAmortisasi	ckpnAsetIjarah	uangMukaIjarah	jenisSukuBungaImbalan	persentaseImbalanAwalKontrak	sukuBungaPersentaseImbalanBulanLaporan	kualitas	plafonAwal	plafon	saldoHargaPokok	saldoMarginDitangguhkan	bakiDebet	realisasiPencairanBulanBerjalan	pendapatanBungaImbalanYangAkanDiterima	jumlah	kelonggaranTarikCommitted	kelonggaranTarikUncommitted	nilaiAgunanYangDapatDiperhitungkanKredit	nilaiAgunanYangDapatDiperhitungkanKelonggaranTarik	cadanganKerugianPenurunanNilaiAsetBaik	cadanganKerugianPenurunanNilaiAsetKurangBaik	cadanganKerugianPenurunanNilaiAsetTidakBaik	tunggakanPokok	tunggakanMarginImbalan	jumlahHariTunggakan	jumlahHariTunggakanPokok	jumlahHariTunggakanBagiHasil	Produk Kategori	Data Source	Nomor Rekening Fasilitas Original	FLAG_LUNAS	BRANCH	FINAL STATUS 	PARTNER	One Obligor	Check 	CKPN AWAL	CKPN REVISI 	NIK
+)
+
+dari kedua file tersebut saya akan membuat file ke 3 yang berisi (nomorRekening, NAMA_CUSTOMER, jenisKreditPembiayaan, tanggalAwal, tanggalMulai, tanggalJatuhTempo, sukuBungaPersentaseImbalanBulanLaporan,jenisPenggunaan, sektorEkonomi, Definisi, kualitas, plafon, bakiDebet, jumlah, NIK) dan dikelompokkan per sheet berdasarkan "PARTNER"
+
+tolong buatkan kode python nya 
+
+Saku kredit 
+
+limit yg belum di decrease masih pending 29/47  38% done 
+untuk 
+
+JF 
+QR TAF kelapagading 
+Update data on progress (data kelurahan, kecamatan dll)
+
+Data R19/R17
+on progress, ini lg on Check
+
+Update LOV dati 2 
+check, 
+
+Reporting
+all done 
+
+
